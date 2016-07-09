@@ -1,0 +1,45 @@
+[submodule "pack/00-vimrc"]
+	path = pack/00-vimrc
+	url = git@github.com:fadein/vim-factored-vimrc.git
+[submodule "pack/FIGlet/start/vim-FIGlet"]
+	path = pack/FIGlet/start/vim-FIGlet
+	url = git@github.com:fadein/vim-FIGlet.git
+[submodule "pack/VisIncr/start/VisIncr"]
+	path = pack/VisIncr/start/VisIncr
+	url = git@github.com:vim-scripts/VisIncr.git
+[submodule "pack/agrep/start/agrep"]
+	path = pack/agrep/start/agrep
+	url = git@github.com:ramele/agrep.git
+[submodule "pack/tpope/start/vim-abolish"]
+	path = pack/tpope/start/vim-abolish
+	url = git@github.com:tpope/vim-abolish.git
+[submodule "pack/tpope/start/vim-repeat"]
+	path = pack/tpope/start/vim-repeat
+	url = git@github.com:tpope/vim-repeat.git
+[submodule "pack/tpope/start/vim-surround"]
+	path = pack/tpope/start/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "pack/tpope/start/vim-unimpaired"]
+	path = pack/tpope/start/vim-unimpaired
+	url = git@github.com:tpope/vim-unimpaired.git
+[submodule "pack/undotree/start/undotree"]
+	path = pack/undotree/start/undotree
+	url = git@github.com:mbbill/undotree.git
+[submodule "pack/unicode_stuff/opt/vim-emoji-abbr"]
+	path = pack/unicode_stuff/opt/vim-emoji-abbr
+	url = git@github.com:fadein/vim-emoji-abbr.git
+[submodule "pack/unicode_stuff/start/vim-emoji-complete"]
+	path = pack/unicode_stuff/start/vim-emoji-complete
+	url = git@github.com:kyuhi/vim-emoji-complete.git
+[submodule "pack/unite/opt/unite.vim"]
+	path = pack/unite/opt/unite.vim
+	url = git@github.com:Shougo/unite.vim.git
+[submodule "pack/vim-airline/start/vim-airline"]
+	path = pack/vim-airline/start/vim-airline
+	url = git@github.com:bling/vim-airline
+[submodule "pack/vim-airline/start/vim-airline-themes"]
+	path = pack/vim-airline/start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "pack/vim-airline/start/vim-fugitive"]
+	path = pack/vim-airline/start/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive
