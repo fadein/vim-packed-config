@@ -43,3 +43,6 @@
 [submodule "pack/vim-airline/start/vim-fugitive"]
 	path = pack/vim-airline/start/vim-fugitive
 	url = git@github.com:tpope/vim-fugitive
+[submodule "pack/vim-colorschemes"]
+	path = pack/vim-colorschemes
+	url = git@github.com:fadein/vim-colorschemes.git
