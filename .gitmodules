@@ -34,15 +34,6 @@
 [submodule "pack/unite/opt/unite.vim"]
 	path = pack/unite/opt/unite.vim
 	url = git@github.com:Shougo/unite.vim.git
-[submodule "pack/vim-airline/start/vim-airline"]
-	path = pack/vim-airline/start/vim-airline
-	url = git@github.com:bling/vim-airline
-[submodule "pack/vim-airline/start/vim-airline-themes"]
-	path = pack/vim-airline/start/vim-airline-themes
-	url = git@github.com:vim-airline/vim-airline-themes.git
-[submodule "pack/vim-airline/start/vim-fugitive"]
-	path = pack/vim-airline/start/vim-fugitive
-	url = git@github.com:tpope/vim-fugitive
 [submodule "pack/vim-colorschemes"]
 	path = pack/vim-colorschemes
 	url = git@github.com:fadein/vim-colorschemes.git
