@@ -37,3 +37,6 @@
 [submodule "pack/vim-colorschemes"]
 	path = pack/vim-colorschemes
 	url = git@github.com:fadein/vim-colorschemes.git
+[submodule "pack/vim-miscellaneous/start/vim-miscellaneous"]
+	path = pack/vim-miscellaneous/start/vim-miscellaneous
+	url = https://github.com/fadein/vim-miscellaneous.git
