@@ -40,3 +40,6 @@
 [submodule "pack/vim-miscellaneous/start/vim-miscellaneous"]
 	path = pack/vim-miscellaneous/start/vim-miscellaneous
 	url = https://github.com/fadein/vim-miscellaneous.git
+[submodule "pack/vim-legacy/start/vim-legacy"]
+	path = pack/vim-legacy/start/vim-legacy
+	url = https://github.com/fadein/vim-legacy.git
