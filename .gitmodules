@@ -25,15 +25,15 @@
 [submodule "pack/undotree/start/undotree"]
 	path = pack/undotree/start/undotree
 	url = git@github.com:mbbill/undotree.git
-[submodule "pack/unicode_stuff/opt/vim-emoji-abbr"]
-	path = pack/unicode_stuff/opt/vim-emoji-abbr
-	url = git@github.com:fadein/vim-emoji-abbr.git
-[submodule "pack/unicode_stuff/start/vim-emoji-complete"]
-	path = pack/unicode_stuff/start/vim-emoji-complete
-	url = git@github.com:kyuhi/vim-emoji-complete.git
 [submodule "pack/unite/opt/unite.vim"]
 	path = pack/unite/opt/unite.vim
 	url = git@github.com:Shougo/unite.vim.git
 [submodule "pack/vim-colorschemes"]
 	path = pack/vim-colorschemes
 	url = git@github.com:fadein/vim-colorschemes.git
+[submodule "pack/vim-miscellaneous/start/vim-miscellaneous"]
+	path = pack/vim-miscellaneous/start/vim-miscellaneous
+	url = https://github.com/fadein/vim-miscellaneous.git
+[submodule "pack/vim-legacy/start/vim-legacy"]
+	path = pack/vim-legacy/start/vim-legacy
+	url = https://github.com/fadein/vim-legacy.git
