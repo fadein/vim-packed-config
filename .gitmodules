@@ -37,3 +37,6 @@
 [submodule "pack/vim-legacy/start/vim-legacy"]
 	path = pack/vim-legacy/start/vim-legacy
 	url = https://github.com/fadein/vim-legacy.git
+[submodule "pack/gnupg/start/gnupg"]
+	path = pack/gnupg/start/gnupg
+	url = https://github.com/jamessan/vim-gnupg
